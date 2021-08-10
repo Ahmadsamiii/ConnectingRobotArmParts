@@ -1,4 +1,4 @@
-# Mechanical Engineering Track | Task-3
+# Mechanical Engineering Track | Task-1
 
 ## Connecting Robot Arm Parts
 
@@ -19,11 +19,37 @@ Then we have to connect them to each other using any 3D software, like blender o
 
 Here we will use tinkercad, but feel free to use any other softwares or online platforms.
 
-- Step.(1): - [Tinkercad](https://www.tinkercad.com): 
 
-Click on 3D Designs, then Create new design:
+- Step.(1): Open [Tinkercad](https://www.tinkercad.com): Then, click on 3D Designs, then Create new design:
+
+
 ![image](https://user-images.githubusercontent.com/85820553/128875021-a77bdc4f-e179-4016-bd63-c11ee568c168.png)
 
+
+
+- Step.(2): An empty woekspace will be shown when you open new design:
+
+
+![image](https://user-images.githubusercontent.com/85820553/128876603-6f7d9c77-0420-43b4-9ca0-c1fa091a859c.png)
+
+
+Then, click on Import and upload the parts of robot arms as (.stl) format:
+
+
+![image](https://user-images.githubusercontent.com/85820553/128877265-313a00c0-23a0-40fe-8e8d-d23085bbd9ad.png)
+
+
+Then, Import the base part first, then adust it to the correct position and direction:
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/85820553/128878227-63798e27-0864-498b-bd9e-a8f2acfd0dd6.png)
+
+
+
+Then, Import the waist as the second part, then adust it to the correct position and direction:
 
 
 
