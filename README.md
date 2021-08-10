@@ -49,10 +49,11 @@ Then, Import the base part first, then adust it to the correct position and dire
 
 
 
-Then, Import the waist as the second part, then adust it to the correct position and direction:
+Then, Import the waist-1 as the second part, then adust it to the correct position and direction:
 
 
 
+![image](https://user-images.githubusercontent.com/85820553/128887174-b4d3daad-8868-48b6-9112-d31e873e4a80.png)
 
 
 
