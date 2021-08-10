@@ -49,7 +49,7 @@ Then, Import the base part first, then adust it to the correct position and dire
 
 
 
-Then, Import the waist-1 as the second part, then adust it to the correct position and direction:
+Then, Import the Waist-1 as the second part, then adust it to the correct position and direction:
 
 
 
@@ -57,3 +57,32 @@ Then, Import the waist-1 as the second part, then adust it to the correct positi
 
 
 
+
+
+Then, Import the Arm-1 as the second part, then adust it to the correct position and direction:
+
+
+
+![image](https://user-images.githubusercontent.com/85820553/128888441-564057b9-45d3-4a6b-8753-4a037cf4ea3a.png)
+
+
+
+
+Then, Import the Arm-2 as the second part, then adust it to the correct position and direction:
+
+
+
+![image](https://user-images.githubusercontent.com/85820553/128889335-4416fce8-c8f4-4f50-845f-9fb77209e954.png)
+
+
+
+
+
+Then, Import the Gripper-2 as the second part, then adust it to the correct position and direction:
+
+
+
+![image](https://user-images.githubusercontent.com/85820553/128892607-fbc433d1-495b-4e5c-ae64-3f64c2d7a301.png)
+
+
+- You can Open [from here](https://www.tinkercad.com/things/6aOSlpR0c2h-spectacular-habbi-bojo/edit?sharecode=OsEzYH6XyuUPR0IUUhkgm3nm7PxNxxSGzrHXmVvLwwY).
